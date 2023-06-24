@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bradley)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **Brad123ghost/Brad123ghost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
