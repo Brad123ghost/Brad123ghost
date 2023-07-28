@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![wakatime](https://wakatime.com/badge/user/f954a946-4490-46fc-88da-004471b64498.svg)](https://wakatime.com/@f954a946-4490-46fc-88da-004471b64498)
 <!---[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bradley&bg_color=22577a&layout=compact&title_color=80ed99&text_color=c7f9cc)](https://github.com/anuraghazra/github-readme-stats)-->
 [![Bradleys's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bradley&bg_color=45,f72585,b5179e,7209b7,560bad,480ca8,3a0ca3,3f37c9,4361ee,4895ef,4cc9f0&layout=compact&title_color=ffffff&text_color=ffffff)](https://wakatime.com/@Bradley "Bradley's WakaTime Stats")
 
