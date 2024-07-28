@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![wakatime](https://wakatime.com/badge/user/f954a946-4490-46fc-88da-004471b64498.svg)](https://wakatime.com/@f954a946-4490-46fc-88da-004471b64498)
 <!---[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bradley&bg_color=22577a&layout=compact&title_color=80ed99&text_color=c7f9cc)](https://github.com/anuraghazra/github-readme-stats)-->
-[![Bradleys's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bradley&bg_color=45,f72585,b5179e,7209b7,560bad,480ca8,3a0ca3,3f37c9,4361ee,4895ef,4cc9f0&layout=compact&title_color=ffffff&text_color=ffffff)](https://wakatime.com/@Bradley "Bradley's WakaTime Stats")
+[![Bradleys's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bradley&bg_color=0A5C36,0F5132,14452f,18392B&layout=compact&title_color=ffffff&text_color=ffffff)](https://wakatime.com/@Bradley "Bradley's WakaTime Stats")
 
 <!---[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bradley&bg_color=45,fbf8cc,fde4cf,ffcfd2,f1c0e8,cfbaf0,a3c4f3,90dbf4,8eecf5,98f5e1,b9fbc0&layout=compact&title_color=111111&text_color=111111)](https://github.com/anuraghazra/github-readme-stats)
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bradley&bg_color=20,25ced1,ffffff,fceade,ff8a5b,ea526f&layout=compact&title_color=111111&text_color=111111)]()
