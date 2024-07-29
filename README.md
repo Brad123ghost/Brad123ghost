@@ -9,8 +9,26 @@
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bradley&bg_color=45,ff595e,ffca3a,8ac926,1982c4,6a4c93&layout=compact&title_color=ffffff&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 [![Bradleys's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bradley&bg_color=35,22577a,38a3a5,57cc99,80ed99,c7f9cc&layout=compact&title_color=ffffff&text_color=ffffff)](https://wakatime.com/@Bradley)-->
 
-## Stuff I've used
+## Currently learning...
 
+#### Tech stack for RnD
+![NextJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=black)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=fff&labelColor=black)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white)
+
+#### MNNN Stack for ENSE 701
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=black)
+![Nest](https://img.shields.io/badge/Nest.js-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=black)
+![NextJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=black)
+
+#### C++ for Game Programming
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=black)
+
+## Stuff I've used
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=black)
 ![Typescript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&labelColor=black)
 ![NextJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
