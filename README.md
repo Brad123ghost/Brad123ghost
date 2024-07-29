@@ -9,7 +9,7 @@
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bradley&bg_color=45,ff595e,ffca3a,8ac926,1982c4,6a4c93&layout=compact&title_color=ffffff&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 [![Bradleys's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bradley&bg_color=35,22577a,38a3a5,57cc99,80ed99,c7f9cc&layout=compact&title_color=ffffff&text_color=ffffff)](https://wakatime.com/@Bradley)-->
 
-## Currently learning...
+## Currently using/learning...
 
 #### Tech stack for RnD
 ![NextJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -48,6 +48,34 @@
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+## Currently Studying...
+- [x] COMP500 Programming Concepts and Techniques
+- [x] COMP501 Computing Technology in Society
+- [x] COMP507 IT Project Management
+- [x] MATH503 Mathematics for Computing
+- [x] COMP503 Programming 2
+- [x] COMP508 Database System Design
+- [x] DIDG507 Mahitahi/Collaborative Practices
+- [x] INFS502 Digital Services in IT
+- [x] COMP603 Program Design and Construction
+- [x] COMP610 Data Structures and Algorithms
+- [x] INFS603 Needs Analysis, Acquisition and Training
+- [x] INFS604 Service Modelling
+- [x] COMP602 Software Development Practice
+- [x] COMP607 Information Security Technologies
+- [x] COMP611 Algorithm Design and Analysis
+- [x] INFS605 Microservices
+- [x] COMP702 Research and Development Project Part 1
+- [x] COMP718 Information Security Management
+- [x] COPM721 Web Development
+- [x] INFS704 Service Innovation and Design
+- [ ] COMP703 Research and Development Project Part 2
+- [ ] COPM710 Game Programming
+- [ ] COMP728 Internet of Things and Applications
+- [ ] ENSE701 Contemporary Issues in Software Engineering
+
+
 <!--
 **Brad123ghost/Brad123ghost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
