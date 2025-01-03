@@ -78,7 +78,7 @@
 - [x] COPM721 Web Development
 - [x] INFS704 Service Innovation and Design
 - [x] COMP703 Research and Development Project Part 2
-~~- [ ] COPM710 Game Programming~~
+- [ ] ~~COPM710 Game Programming~~
 - [x] COMP728 Internet of Things and Applications
 - [x] ENSE701 Contemporary Issues in Software Engineering
 
